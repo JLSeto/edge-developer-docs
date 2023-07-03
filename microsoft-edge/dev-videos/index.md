@@ -17,6 +17,8 @@ Microsoft publishes new videos on a regular basis on the [Microsoft Edge YouTube
 
 Click on a thumbnail from the following list to watch the corresponding video on YouTube.
 
+Nice!
+
 <!--
 To add a new video:
 - Create a thumbnail image for the video: 300px wide, no faces of people, big blue play button.
